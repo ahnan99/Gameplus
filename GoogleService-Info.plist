@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>149967008587-maedcgs8q021bi5k15jjcqceofqccdej.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.149967008587-maedcgs8q021bi5k15jjcqceofqccdej</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgJjjKfaiBsQQ-T5ZjN9V1Z1METWqHv9k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>149967008587</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Yinan.GamePlus</string>
+	<key>PROJECT_ID</key>
+	<string>gameplus-7d5f4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gameplus-7d5f4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:149967008587:ios:d8ca7e417673159d</string>
+	<key>DATABASE_URL</key>
+	<string>https://gameplus-7d5f4.firebaseio.com</string>
+</dict>
+</plist>
